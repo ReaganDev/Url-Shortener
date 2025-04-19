@@ -1,0 +1,82 @@
+
+# Build Results
+bin/
+obj/
+[Ll]og/
+*.log
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio working folder
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Build outputs
+*.dll
+*.exe
+*.app
+*.appx
+*.msix
+*.msi
+
+# Publish results
+**/publish/
+**/out/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# Entity Framework Migrations snapshot
+*MigrationsSnapshot.cs
+
+# dotenv environment variables
+.env
+.env.*
+
+# test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# npm related
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
+
+# JetBrains Rider
+.idea/
+
+# Coverage tool
+coverage/
+*.lcov
+*.coverage
+
+# Others
+*.pid
+*.pid.lock
